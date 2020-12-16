@@ -7,6 +7,26 @@ title: About our values
 
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
+<!--StartFragment-->
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Content Manager</title>
+
+<meta name="robots" content="none">
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+</head>
+
+<!--EndFragment-->
+
 ![Image 1](/img/blog-index.jpg)
 
 ![image 2](/img/flavor_wheel.jpg)
